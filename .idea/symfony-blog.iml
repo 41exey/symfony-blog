@@ -33,5 +33,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="quick_tour" />
     <orderEntry type="module" module-name="testroute" />
+    <orderEntry type="module" module-name="symfony-game-shop" />
+    <orderEntry type="module" module-name="symfony-demo" />
   </component>
 </module>
