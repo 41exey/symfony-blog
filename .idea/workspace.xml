@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3e295bd-5ec3-4a33-b3e1-6b3ba087b1a1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/BlogPost.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/BlogPost.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../symfony-game-shop/src/Difuks/DazzleBundle/DifuksDazzleBundle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony-game-shop/src/Difuks/DazzleBundle/DifuksDazzleBundle.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="BlogPost.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Entity/BlogPost.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="274" column="45" selection-start-line="274" selection-start-column="45" selection-end-line="274" selection-end-column="45" />
+            <state relative-caret-position="158">
+              <caret line="260" column="9" lean-forward="true" selection-start-line="260" selection-start-column="9" selection-end-line="260" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -205,12 +205,12 @@
       <updated>1538333838151</updated>
       <workItem from="1538333843884" duration="7530000" />
       <workItem from="1538343563590" duration="11349000" />
-      <workItem from="1538466335005" duration="3759000" />
+      <workItem from="1538466335005" duration="3987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22638000" />
+    <option name="totallyTimeSpent" value="22866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="24" width="1249" height="491" extended-state="0" />
@@ -345,8 +345,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Entity/BlogPost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="274" column="45" selection-start-line="274" selection-start-column="45" selection-end-line="274" selection-end-column="45" />
+        <state relative-caret-position="158">
+          <caret line="260" column="9" lean-forward="true" selection-start-line="260" selection-start-column="9" selection-end-line="260" selection-end-column="9" />
         </state>
       </provider>
     </entry>

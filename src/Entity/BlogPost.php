@@ -260,7 +260,7 @@ class BlogPost
             $this->setCreatedAt(new \DateTime());
         }
 
-        if (!this->getUpdatedAt())
+        if (!$this->getUpdatedAt())
         {
             $this->setUpdatedAt(new \DateTime());
         }
